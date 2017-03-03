@@ -1,4 +1,4 @@
-package main.java.com.my.util.test;
+package com.my.util.test;
 
 import java.net.URLDecoder;
 import java.util.Base64;

@@ -1,4 +1,4 @@
-package main.java.com.my.util.test;
+package com.my.util.test;
 
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.utils.URIBuilder;

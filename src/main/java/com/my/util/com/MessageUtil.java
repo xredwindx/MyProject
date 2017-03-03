@@ -1,6 +1,5 @@
-package main.java.com.my.util.com;
+package com.my.util.com;
 
-import com.solbox.comm.CommonConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.context.i18n.LocaleContextHolder;
