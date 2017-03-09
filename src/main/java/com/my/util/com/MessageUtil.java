@@ -16,7 +16,7 @@ public class MessageUtil {
 
      @Autowired
      public void setMessageSource(MessageSource messageSource) {
-         this.messageSource = messageSource;
+         MessageUtil.messageSource = messageSource;
      }
     /**
      * spring request locale에 맞는 메세지 보여주기
