@@ -55,7 +55,7 @@ public class MessageUtil {
      * @return
      */
     public static String getLocaleGlobalEN(String localeStr) {
-        if(localeStr.startsWith("ko")) {
+        if(!localeStr.startsWith("ko")) {
             localeStr = "en";
         }
         return localeStr;
